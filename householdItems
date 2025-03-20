@@ -6,3 +6,5 @@ List<string> householdItems = new List<string>();
         householdItems.Add("Lamp");
         householdItems.Add("Television");
         householdItems.Add("Fan");
+
+ householdItems.Add("Placeholder");
