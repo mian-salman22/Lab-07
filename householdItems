@@ -1,0 +1,8 @@
+List<string> householdItems = new List<string>();
+
+        // Add items to the list
+        householdItems.Add("Chair");
+        householdItems.Add("Table");
+        householdItems.Add("Lamp");
+        householdItems.Add("Television");
+        householdItems.Add("Fan");
